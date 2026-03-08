@@ -135,18 +135,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-
-Questo script implementa una pipeline completa per l'uso di Decision Tree con le seguenti caratteristiche:
-
-**Caricamento dati**: Utilizza il dataset Breast Cancer Wisconsin, ideale per classificatione binaria.
-
-**Preprocessing**: Divisione train/test (70/30) con stratificazione e scaling delle features.
-
-**Modellazione**: DecisionTreeClassifier con parametri configurabili per evitare overfitting.
-
-**Valutazione**: Metriche complete includendo accuracy, matrice di confusione e classification report.
-
-**Visualizzazione**: Plot dell'albero decisionale e analisi importanza features.
-
-**Modularità**: Classe ben strutturata che permette facile riutilizzo e modifica dei parametri.
