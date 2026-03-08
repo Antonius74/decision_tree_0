@@ -1,6 +1,4 @@
-Ecco il file README.md richiesto:
 
-```markdown
 # Decision Tree - Spiegazione Didattica
 
 ## Introduzione e Teoria
@@ -155,4 +153,3 @@ L'albero decisionale imparerebbe automaticamente regole come:
 - Se colore = Giallo → Banana
 
 Questo principio, applicato alle 30 caratteristiche mediche del dataset, permette di diagnosticare tumori con alta accuratezza.
-```
